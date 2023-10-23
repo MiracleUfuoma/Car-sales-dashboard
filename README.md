@@ -2,6 +2,8 @@
 Using Tableau to analyze car sales dataset
 # Car Sales Dashboard for Tableau
 
+![Car sales dashboard](https://github.com/MiracleUfuoma/Car-sales-dashboard/assets/146808167/5a23c610-f068-4f5e-bed8-7919c01fd68d)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
